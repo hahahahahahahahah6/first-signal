@@ -1,0 +1,20 @@
+{
+  "as_of": "2026-10-26",
+  "repos": [
+    {
+      "full_name": "fixture/strong",
+      "html_url": "https://github.com/fixture/strong",
+      "readme": true,
+      "description": "A documented study timer",
+      "topics": [
+        "python"
+      ],
+      "license": "MIT",
+      "tests": true,
+      "ci": true,
+      "pushed_at": "2026-10-20T00:00:00Z",
+      "homepage": "https://example.org",
+      "showcase": true
+    }
+  ]
+}
